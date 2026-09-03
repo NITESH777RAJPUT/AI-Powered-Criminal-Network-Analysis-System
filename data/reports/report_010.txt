@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-010
+DATE & TIME: 03-Feb-2025 01:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Kolkata Port Trust Dock 11, Kolkata
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Kolkata Port Trust Dock 11 observed Inder Chatterjee (alias 'Shadow') meeting with Ritu Malhotra and an unidentified associate identified as Bhavna Pawar.
+The subjects arrived in a vehicle bearing registration plate GA33GB7536. During physical surveillance, Inder Chatterjee was seen making repeated encrypted calls using mobile terminal 9700000032 and dispatching instructions to 7000000033.
+
+KEY ACTIVITY LOG:
+1. At approximately 01:00, Inder Chatterjee handed over a sealed briefcase suspected of containing ₹ 4,800,000 INR to Ritu Malhotra.
+2. Intelligence indicates funds originated from Coastal Freight & Smuggling Cell as part of a structured settlement.
+3. Ritu Malhotra subsequently departed toward Chennai Harbor Gate 2A in Chennai.
+4. Intercepted chatter mentions follow-up rendezvous at Chennai Harbor Gate 2A to coordinate logistics for Coastal Freight & Smuggling Cell.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Inder Chatterjee, Ritu Malhotra, Bhavna Pawar
+- CONTACT NUMBERS: 9700000032, 7000000033
+- VEHICLES IDENTIFIED: GA33GB7536
+- LOCATIONS MENTIONED: Kolkata Port Trust Dock 11, Chennai Harbor Gate 2A
+- ORGANIZATIONS: Coastal Freight & Smuggling Cell
+- ESTIMATED VALUE: ₹ 4,800,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Apex Global Financial Ring and Coastal Freight & Smuggling Cell. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

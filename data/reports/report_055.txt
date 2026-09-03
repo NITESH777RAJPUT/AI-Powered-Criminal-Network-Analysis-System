@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-055
+DATE & TIME: 16-Jun-2025 00:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Ratnagiri Coastal Fishing Jetty, Ratnagiri
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Ratnagiri Coastal Fishing Jetty observed Brijesh Deshmukh (alias 'Viper') meeting with Jitendra Shinde and an unidentified associate identified as Sameer Bansal.
+The subjects arrived in a vehicle bearing registration plate GA08QB9266. During physical surveillance, Brijesh Deshmukh was seen making repeated encrypted calls using mobile terminal 8800000042 and dispatching instructions to 9800000043.
+
+KEY ACTIVITY LOG:
+1. At approximately 00:00, Brijesh Deshmukh handed over a sealed briefcase suspected of containing ₹ 1,250,000 INR to Jitendra Shinde.
+2. Intelligence indicates funds originated from National Cyber FinTech Ltd as part of a structured settlement.
+3. Jitendra Shinde subsequently departed toward Connaught Place Regal Plaza in Delhi.
+4. Intercepted chatter mentions follow-up rendezvous at Connaught Place Regal Plaza to coordinate logistics for National Cyber FinTech Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Brijesh Deshmukh, Jitendra Shinde, Sameer Bansal
+- CONTACT NUMBERS: 8800000042, 9800000043
+- VEHICLES IDENTIFIED: GA08QB9266
+- LOCATIONS MENTIONED: Ratnagiri Coastal Fishing Jetty, Connaught Place Regal Plaza
+- ORGANIZATIONS: National Cyber FinTech Ltd
+- ESTIMATED VALUE: ₹ 1,250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Apex Global Financial Ring and Coastal Freight & Smuggling Cell. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

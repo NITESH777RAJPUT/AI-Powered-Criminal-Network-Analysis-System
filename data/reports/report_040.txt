@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-040
+DATE & TIME: 03-May-2025 01:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Sardar Vallabhbhai Transit Depot, Ahmedabad
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Sardar Vallabhbhai Transit Depot observed Rohan Rao (alias 'None') meeting with Sanjay Mukherjee and an unidentified associate identified as Arun Singhania.
+The subjects arrived in a vehicle bearing registration plate GA03CA2346. During physical surveillance, Rohan Rao was seen making repeated encrypted calls using mobile terminal 9900000057 and dispatching instructions to 8800000058.
+
+KEY ACTIVITY LOG:
+1. At approximately 01:00, Rohan Rao handed over a sealed briefcase suspected of containing ₹ 7,500,000 INR to Sanjay Mukherjee.
+2. Intelligence indicates funds originated from Northside Logistics Syndicate as part of a structured settlement.
+3. Sanjay Mukherjee subsequently departed toward Kandla Port Tank Farm 2 in Kutch.
+4. Intercepted chatter mentions follow-up rendezvous at Kandla Port Tank Farm 2 to coordinate logistics for Northside Logistics Syndicate.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Rohan Rao, Sanjay Mukherjee, Arun Singhania
+- CONTACT NUMBERS: 9900000057, 8800000058
+- VEHICLES IDENTIFIED: GA03CA2346
+- LOCATIONS MENTIONED: Sardar Vallabhbhai Transit Depot, Kandla Port Tank Farm 2
+- ORGANIZATIONS: Northside Logistics Syndicate
+- ESTIMATED VALUE: ₹ 7,500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

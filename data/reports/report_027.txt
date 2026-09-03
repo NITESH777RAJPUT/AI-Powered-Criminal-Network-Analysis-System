@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-027
+DATE & TIME: 26-Mar-2025 07:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 3
+LOCATION OF OPERATION: Jaipur Transport Nagar Yard 5, Jaipur
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Jaipur Transport Nagar Yard 5 observed Firoz Malhotra (alias 'None') meeting with Meera Pawar and an unidentified associate identified as Swati Bhatia.
+The subjects arrived in a vehicle bearing registration plate KA24XA5979. During physical surveillance, Firoz Malhotra was seen making repeated encrypted calls using mobile terminal 8700000018 and dispatching instructions to 9800000019.
+
+KEY ACTIVITY LOG:
+1. At approximately 07:00, Firoz Malhotra handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Meera Pawar.
+2. Intelligence indicates funds originated from Silverline Import Export Pvt Ltd as part of a structured settlement.
+3. Meera Pawar subsequently departed toward Kolkata Port Trust Dock 11 in Kolkata.
+4. Intercepted chatter mentions follow-up rendezvous at Kolkata Port Trust Dock 11 to coordinate logistics for Silverline Import Export Pvt Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Firoz Malhotra, Meera Pawar, Swati Bhatia
+- CONTACT NUMBERS: 8700000018, 9800000019
+- VEHICLES IDENTIFIED: KA24XA5979
+- LOCATIONS MENTIONED: Jaipur Transport Nagar Yard 5, Kolkata Port Trust Dock 11
+- ORGANIZATIONS: Silverline Import Export Pvt Ltd
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

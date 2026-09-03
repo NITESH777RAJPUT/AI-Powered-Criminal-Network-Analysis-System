@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-014
+DATE & TIME: 13-Feb-2025 22:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 5
+LOCATION OF OPERATION: Aurangabad Chikalthana Hub, Aurangabad
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Aurangabad Chikalthana Hub observed Sameer Bansal (alias 'Fox') meeting with Bharat Pillai and an unidentified associate identified as Imran Sengupta.
+The subjects arrived in a vehicle bearing registration plate GJ10SB9612. During physical surveillance, Sameer Bansal was seen making repeated encrypted calls using mobile terminal 8800000044 and dispatching instructions to 8800000045.
+
+KEY ACTIVITY LOG:
+1. At approximately 22:00, Sameer Bansal handed over a sealed briefcase suspected of containing ₹ 7,500,000 INR to Bharat Pillai.
+2. Intelligence indicates funds originated from Bayview Luxury Casino Club as part of a structured settlement.
+3. Bharat Pillai subsequently departed toward Solapur Textile Market Gate 1 in Solapur.
+4. Intercepted chatter mentions follow-up rendezvous at Solapur Textile Market Gate 1 to coordinate logistics for Bayview Luxury Casino Club.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Sameer Bansal, Bharat Pillai, Imran Sengupta
+- CONTACT NUMBERS: 8800000044, 8800000045
+- VEHICLES IDENTIFIED: GJ10SB9612
+- LOCATIONS MENTIONED: Aurangabad Chikalthana Hub, Solapur Textile Market Gate 1
+- ORGANIZATIONS: Bayview Luxury Casino Club
+- ESTIMATED VALUE: ₹ 7,500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Independent Syndicate Operative and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

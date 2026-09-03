@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-012
+DATE & TIME: 09-Feb-2025 07:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 3
+LOCATION OF OPERATION: Thane Ghodbunder Road Warehouse, Thane
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Thane Ghodbunder Road Warehouse observed Sachin Kapoor (alias 'Ghost') meeting with Dinesh Pandey and an unidentified associate identified as Hemant Sodhi.
+The subjects arrived in a vehicle bearing registration plate RJ04MB8574. During physical surveillance, Sachin Kapoor was seen making repeated encrypted calls using mobile terminal 9900000038 and dispatching instructions to 7700000039.
+
+KEY ACTIVITY LOG:
+1. At approximately 07:00, Sachin Kapoor handed over a sealed briefcase suspected of containing ₹ 950,000 INR to Dinesh Pandey.
+2. Intelligence indicates funds originated from Falcon Security Solutions as part of a structured settlement.
+3. Dinesh Pandey subsequently departed toward Panvel Expressway Toll Plaza in Panvel.
+4. Intercepted chatter mentions follow-up rendezvous at Panvel Expressway Toll Plaza to coordinate logistics for Falcon Security Solutions.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Sachin Kapoor, Dinesh Pandey, Hemant Sodhi
+- CONTACT NUMBERS: 9900000038, 7700000039
+- VEHICLES IDENTIFIED: RJ04MB8574
+- LOCATIONS MENTIONED: Thane Ghodbunder Road Warehouse, Panvel Expressway Toll Plaza
+- ORGANIZATIONS: Falcon Security Solutions
+- ESTIMATED VALUE: ₹ 950,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Coastal Freight & Smuggling Cell and Independent Syndicate Operative. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

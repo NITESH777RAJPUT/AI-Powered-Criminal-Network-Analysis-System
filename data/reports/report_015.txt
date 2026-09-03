@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-015
+DATE & TIME: 16-Feb-2025 01:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Chandigarh Sector 17 Plaza, Chandigarh
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Chandigarh Sector 17 Plaza observed Raghav Mehta (alias 'Kingpin') meeting with Aakash Yadav and an unidentified associate identified as Harshad Khurana.
+The subjects arrived in a vehicle bearing registration plate WB13VB1131. During physical surveillance, Raghav Mehta was seen making repeated encrypted calls using mobile terminal 8700000047 and dispatching instructions to 9100000048.
+
+KEY ACTIVITY LOG:
+1. At approximately 01:00, Raghav Mehta handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Aakash Yadav.
+2. Intelligence indicates funds originated from National Cyber FinTech Ltd as part of a structured settlement.
+3. Aakash Yadav subsequently departed toward Indore Vijay Nagar Commercial Sq in Indore.
+4. Intercepted chatter mentions follow-up rendezvous at Indore Vijay Nagar Commercial Sq to coordinate logistics for National Cyber FinTech Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Raghav Mehta, Aakash Yadav, Harshad Khurana
+- CONTACT NUMBERS: 8700000047, 9100000048
+- VEHICLES IDENTIFIED: WB13VB1131
+- LOCATIONS MENTIONED: Chandigarh Sector 17 Plaza, Indore Vijay Nagar Commercial Sq
+- ORGANIZATIONS: National Cyber FinTech Ltd
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Apex Global Financial Ring and Coastal Freight & Smuggling Cell. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

@@ -1,0 +1,5 @@
+SYNTHETIC DEMO REPORT
+On 15 August 2026, Rahul Sharma met Amit Kumar near Pune Central.
+Amit was using vehicle MH12SHARED1 and contacted phone number 9000099999.
+A synthetic transaction of INR 650000 was recorded between P001 and P014.
+This document contains fictional data created only for software testing.

@@ -1,0 +1,56 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2025-01-01 00:00:00",
+    "evidence_id": "GENESIS-BLOCK",
+    "filename": "SYSTEM_GENESIS_ROOT",
+    "evidence_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "block_hash": "5e2d15d15ee99a059a94fcaae6f6aef7d9b0e478d05ccb87ace1c03f2c488713",
+    "metadata": {
+      "system": "Criminal Network Intelligence Ledger"
+    }
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-09-02 20:39:38",
+    "evidence_id": "EVID-001",
+    "filename": "file1.txt",
+    "evidence_hash": "cd56d06409d269dbc1ace470081f1d32ed50906679b2bacfd4044348770493c4",
+    "previous_hash": "5e2d15d15ee99a059a94fcaae6f6aef7d9b0e478d05ccb87ace1c03f2c488713",
+    "block_hash": "1dc4916e4afeb2b55874b247bde1c067a404355fff3dc0473556573ad0c506f9",
+    "metadata": {}
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-09-02 20:39:38",
+    "evidence_id": "EVID-002",
+    "filename": "file2.txt",
+    "evidence_hash": "1b8707533d362a48d03c920654cb5ac752445f17ca8255fe50e615e344edcd55",
+    "previous_hash": "1dc4916e4afeb2b55874b247bde1c067a404355fff3dc0473556573ad0c506f9",
+    "block_hash": "5e9099cea2a13bfbb3af6a258c7a1805c46a7b18bd5826833569147b7ddad835",
+    "metadata": {}
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-09-02 20:39:38",
+    "evidence_id": "EVID-003",
+    "filename": "file3.txt",
+    "evidence_hash": "d4e737c5336fcbf8a69550032d107520beb62e222a338591b004f09ba43ab857",
+    "previous_hash": "5e9099cea2a13bfbb3af6a258c7a1805c46a7b18bd5826833569147b7ddad835",
+    "block_hash": "cd1684d23667c63c7e12cd14f96abb536eb3b577af4d82115b817c60d603759f",
+    "metadata": {}
+  },
+  {
+    "index": 4,
+    "timestamp": "2026-09-02 20:41:37",
+    "evidence_id": "REP_c71c8b9a",
+    "filename": "Field_Surveillance_Intercept.txt",
+    "evidence_hash": "ab62be39a1536649961b9c0dccd77f1c4ce99e49c8efa64e8bc9af5a10be7b3f",
+    "previous_hash": "cd1684d23667c63c7e12cd14f96abb536eb3b577af4d82115b817c60d603759f",
+    "block_hash": "c95ee51e52f489a0ddceb356e2351881223a691bf1066371fbadb880e29119d6",
+    "metadata": {
+      "entity_count": 7
+    }
+  }
+]

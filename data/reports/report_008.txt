@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-008
+DATE & TIME: 28-Jan-2025 07:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Navi Mumbai Vashi APMC Market, Navi Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Navi Mumbai Vashi APMC Market observed Kapil Chawla (alias 'Chief') meeting with Tanmay Iyengar and an unidentified associate identified as Chirag Das.
+The subjects arrived in a vehicle bearing registration plate TN27AB6498. During physical surveillance, Kapil Chawla was seen making repeated encrypted calls using mobile terminal 7700000026 and dispatching instructions to 7700000027.
+
+KEY ACTIVITY LOG:
+1. At approximately 07:00, Kapil Chawla handed over a sealed briefcase suspected of containing ₹ 7,500,000 INR to Tanmay Iyengar.
+2. Intelligence indicates funds originated from Northside Logistics Syndicate as part of a structured settlement.
+3. Tanmay Iyengar subsequently departed toward Surat Diamond Bourse Vault 3 in Surat.
+4. Intercepted chatter mentions follow-up rendezvous at Surat Diamond Bourse Vault 3 to coordinate logistics for Northside Logistics Syndicate.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Kapil Chawla, Tanmay Iyengar, Chirag Das
+- CONTACT NUMBERS: 7700000026, 7700000027
+- VEHICLES IDENTIFIED: TN27AB6498
+- LOCATIONS MENTIONED: Navi Mumbai Vashi APMC Market, Surat Diamond Bourse Vault 3
+- ORGANIZATIONS: Northside Logistics Syndicate
+- ESTIMATED VALUE: ₹ 7,500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Northside Logistics Syndicate and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

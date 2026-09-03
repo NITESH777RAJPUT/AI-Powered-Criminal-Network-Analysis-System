@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-038
+DATE & TIME: 27-Apr-2025 02:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Connaught Place Regal Plaza, Delhi
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Connaught Place Regal Plaza observed Uttam Chauhan (alias 'None') meeting with Darshan Dhillon and an unidentified associate identified as Kamlesh Hegde.
+The subjects arrived in a vehicle bearing registration plate TN22EC2688. During physical surveillance, Uttam Chauhan was seen making repeated encrypted calls using mobile terminal 9800000051 and dispatching instructions to 9700000052.
+
+KEY ACTIVITY LOG:
+1. At approximately 02:00, Uttam Chauhan handed over a sealed briefcase suspected of containing ₹ 950,000 INR to Darshan Dhillon.
+2. Intelligence indicates funds originated from Bayview Luxury Casino Club as part of a structured settlement.
+3. Darshan Dhillon subsequently departed toward Indira Gandhi Cargo Terminal T3 in Delhi.
+4. Intercepted chatter mentions follow-up rendezvous at Indira Gandhi Cargo Terminal T3 to coordinate logistics for Bayview Luxury Casino Club.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Uttam Chauhan, Darshan Dhillon, Kamlesh Hegde
+- CONTACT NUMBERS: 9800000051, 9700000052
+- VEHICLES IDENTIFIED: TN22EC2688
+- LOCATIONS MENTIONED: Connaught Place Regal Plaza, Indira Gandhi Cargo Terminal T3
+- ORGANIZATIONS: Bayview Luxury Casino Club
+- ESTIMATED VALUE: ₹ 950,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

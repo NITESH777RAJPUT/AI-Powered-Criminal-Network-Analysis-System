@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-005
+DATE & TIME: 19-Jan-2025 05:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Sardar Vallabhbhai Transit Depot, Ahmedabad
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Sardar Vallabhbhai Transit Depot observed Chitra Dhillon (alias 'Kingpin') meeting with Lata Hegde and an unidentified associate identified as Pooja Roy.
+The subjects arrived in a vehicle bearing registration plate DL02BA2173. During physical surveillance, Chitra Dhillon was seen making repeated encrypted calls using mobile terminal 8800000017 and dispatching instructions to 8700000018.
+
+KEY ACTIVITY LOG:
+1. At approximately 05:00, Chitra Dhillon handed over a sealed briefcase suspected of containing ₹ 250,000 INR to Lata Hegde.
+2. Intelligence indicates funds originated from Metro Transit & Warehousing as part of a structured settlement.
+3. Lata Hegde subsequently departed toward Kandla Port Tank Farm 2 in Kutch.
+4. Intercepted chatter mentions follow-up rendezvous at Kandla Port Tank Farm 2 to coordinate logistics for Metro Transit & Warehousing.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Chitra Dhillon, Lata Hegde, Pooja Roy
+- CONTACT NUMBERS: 8800000017, 8700000018
+- VEHICLES IDENTIFIED: DL02BA2173
+- LOCATIONS MENTIONED: Sardar Vallabhbhai Transit Depot, Kandla Port Tank Farm 2
+- ORGANIZATIONS: Metro Transit & Warehousing
+- ESTIMATED VALUE: ₹ 250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Apex Global Financial Ring and Coastal Freight & Smuggling Cell. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

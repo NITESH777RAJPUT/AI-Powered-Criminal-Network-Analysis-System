@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-007
+DATE & TIME: 24-Jan-2025 19:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 3
+LOCATION OF OPERATION: Calangute Beach Hideout Villa, Goa
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Calangute Beach Hideout Villa observed Jagdish Mukherjee (alias 'Falcon') meeting with Sandip Singhania and an unidentified associate identified as Chetan Bhide.
+The subjects arrived in a vehicle bearing registration plate KA24XA5979. During physical surveillance, Jagdish Mukherjee was seen making repeated encrypted calls using mobile terminal 7700000023 and dispatching instructions to 9100000024.
+
+KEY ACTIVITY LOG:
+1. At approximately 19:00, Jagdish Mukherjee handed over a sealed briefcase suspected of containing ₹ 7,500,000 INR to Sandip Singhania.
+2. Intelligence indicates funds originated from National Cyber FinTech Ltd as part of a structured settlement.
+3. Sandip Singhania subsequently departed toward Lonavala Hill Farmhouse Bunker in Lonavala.
+4. Intercepted chatter mentions follow-up rendezvous at Lonavala Hill Farmhouse Bunker to coordinate logistics for National Cyber FinTech Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Jagdish Mukherjee, Sandip Singhania, Chetan Bhide
+- CONTACT NUMBERS: 7700000023, 9100000024
+- VEHICLES IDENTIFIED: KA24XA5979
+- LOCATIONS MENTIONED: Calangute Beach Hideout Villa, Lonavala Hill Farmhouse Bunker
+- ORGANIZATIONS: National Cyber FinTech Ltd
+- ESTIMATED VALUE: ₹ 7,500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Coastal Freight & Smuggling Cell and Independent Syndicate Operative. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

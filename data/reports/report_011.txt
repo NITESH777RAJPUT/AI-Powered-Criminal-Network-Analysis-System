@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-011
+DATE & TIME: 04-Feb-2025 00:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 2
+LOCATION OF OPERATION: Pune Hinjewadi Phase 3 Hub, Pune
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Pune Hinjewadi Phase 3 Hub observed Kiran Bhatia (alias 'Captain') meeting with Devendra Iyer and an unidentified associate identified as Pankaj Bose.
+The subjects arrived in a vehicle bearing registration plate TS01JB8055. During physical surveillance, Kiran Bhatia was seen making repeated encrypted calls using mobile terminal 8700000035 and dispatching instructions to 9700000036.
+
+KEY ACTIVITY LOG:
+1. At approximately 00:00, Kiran Bhatia handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Devendra Iyer.
+2. Intelligence indicates funds originated from Silverline Import Export Pvt Ltd as part of a structured settlement.
+3. Devendra Iyer subsequently departed toward Mumbai Dharavi Leather Lane in Mumbai.
+4. Intercepted chatter mentions follow-up rendezvous at Mumbai Dharavi Leather Lane to coordinate logistics for Silverline Import Export Pvt Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Kiran Bhatia, Devendra Iyer, Pankaj Bose
+- CONTACT NUMBERS: 8700000035, 9700000036
+- VEHICLES IDENTIFIED: TS01JB8055
+- LOCATIONS MENTIONED: Pune Hinjewadi Phase 3 Hub, Mumbai Dharavi Leather Lane
+- ORGANIZATIONS: Silverline Import Export Pvt Ltd
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Northside Logistics Syndicate. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

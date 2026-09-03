@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-045
+DATE & TIME: 19-May-2025 00:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Kolkata Port Trust Dock 11, Kolkata
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Kolkata Port Trust Dock 11 observed Kunal Gupta (alias 'Viper') meeting with Tejas Nair and an unidentified associate identified as Chandan Dutta.
+The subjects arrived in a vehicle bearing registration plate DL02BA2173. During physical surveillance, Kunal Gupta was seen making repeated encrypted calls using mobile terminal 9700000001 and dispatching instructions to 9700000001.
+
+KEY ACTIVITY LOG:
+1. At approximately 00:00, Kunal Gupta handed over a sealed briefcase suspected of containing ₹ 1,250,000 INR to Tejas Nair.
+2. Intelligence indicates funds originated from Metro Transit & Warehousing as part of a structured settlement.
+3. Tejas Nair subsequently departed toward Chennai Harbor Gate 2A in Chennai.
+4. Intercepted chatter mentions follow-up rendezvous at Chennai Harbor Gate 2A to coordinate logistics for Metro Transit & Warehousing.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Kunal Gupta, Tejas Nair, Chandan Dutta
+- CONTACT NUMBERS: 9700000001, 9700000001
+- VEHICLES IDENTIFIED: DL02BA2173
+- LOCATIONS MENTIONED: Kolkata Port Trust Dock 11, Chennai Harbor Gate 2A
+- ORGANIZATIONS: Metro Transit & Warehousing
+- ESTIMATED VALUE: ₹ 1,250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Apex Global Financial Ring and Coastal Freight & Smuggling Cell. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

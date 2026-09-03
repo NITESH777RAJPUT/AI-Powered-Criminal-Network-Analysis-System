@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-037
+DATE & TIME: 25-Apr-2025 06:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 3
+LOCATION OF OPERATION: Mormugao Port Cargo Gate 4, Goa
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Mormugao Port Cargo Gate 4 observed Varun Nair (alias 'None') meeting with Eshwar Dutta and an unidentified associate identified as Lokesh D'Souza.
+The subjects arrived in a vehicle bearing registration plate KA19BC2169. During physical surveillance, Varun Nair was seen making repeated encrypted calls using mobile terminal 9100000048 and dispatching instructions to 9700000049.
+
+KEY ACTIVITY LOG:
+1. At approximately 06:00, Varun Nair handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Eshwar Dutta.
+2. Intelligence indicates funds originated from Metro Transit & Warehousing as part of a structured settlement.
+3. Eshwar Dutta subsequently departed toward Ratnagiri Coastal Fishing Jetty in Ratnagiri.
+4. Intercepted chatter mentions follow-up rendezvous at Ratnagiri Coastal Fishing Jetty to coordinate logistics for Metro Transit & Warehousing.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Varun Nair, Eshwar Dutta, Lokesh D'Souza
+- CONTACT NUMBERS: 9100000048, 9700000049
+- VEHICLES IDENTIFIED: KA19BC2169
+- LOCATIONS MENTIONED: Mormugao Port Cargo Gate 4, Ratnagiri Coastal Fishing Jetty
+- ORGANIZATIONS: Metro Transit & Warehousing
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-047
+DATE & TIME: 23-May-2025 22:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 3
+LOCATION OF OPERATION: Thane Ghodbunder Road Warehouse, Thane
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Thane Ghodbunder Road Warehouse observed Lata Hegde (alias 'Sniper') meeting with Pooja Roy and an unidentified associate identified as Rajesh Joshi.
+The subjects arrived in a vehicle bearing registration plate RJ19SA5114. During physical surveillance, Lata Hegde was seen making repeated encrypted calls using mobile terminal 8700000018 and dispatching instructions to 9800000019.
+
+KEY ACTIVITY LOG:
+1. At approximately 22:00, Lata Hegde handed over a sealed briefcase suspected of containing ₹ 7,500,000 INR to Pooja Roy.
+2. Intelligence indicates funds originated from National Cyber FinTech Ltd as part of a structured settlement.
+3. Pooja Roy subsequently departed toward Panvel Expressway Toll Plaza in Panvel.
+4. Intercepted chatter mentions follow-up rendezvous at Panvel Expressway Toll Plaza to coordinate logistics for National Cyber FinTech Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Lata Hegde, Pooja Roy, Rajesh Joshi
+- CONTACT NUMBERS: 8700000018, 9800000019
+- VEHICLES IDENTIFIED: RJ19SA5114
+- LOCATIONS MENTIONED: Thane Ghodbunder Road Warehouse, Panvel Expressway Toll Plaza
+- ORGANIZATIONS: National Cyber FinTech Ltd
+- ESTIMATED VALUE: ₹ 7,500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Coastal Freight & Smuggling Cell and Independent Syndicate Operative. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

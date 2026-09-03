@@ -1,0 +1,15 @@
+SYNTHETIC INVESTIGATION REPORT - FOR SOFTWARE TESTING ONLY
+
+This document contains fictional entities and events.
+
+Person P001 (Rahul Sharma) was observed communicating with P017 and P031.
+Phone number 9876543210 is associated with P001 and P017.
+Vehicle MH12XY9999 is associated with P001 and P022.
+
+Several fictional financial transactions involve P001, P017, P031 and P002.
+Some transactions have unusually high values and are included specifically
+to test anomaly detection.
+
+No real persons, records, phone numbers, vehicles, or criminal cases are
+represented by this document. The data must not be interpreted as evidence
+of criminal activity or guilt.

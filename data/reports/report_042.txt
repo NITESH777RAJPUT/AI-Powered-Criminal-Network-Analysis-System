@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-042
+DATE & TIME: 08-May-2025 05:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 3
+LOCATION OF OPERATION: Calangute Beach Hideout Villa, Goa
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Calangute Beach Hideout Villa observed Amit Deshmukh (alias 'Shadow') meeting with Vikram Malhotra and an unidentified associate identified as Suresh Singhania.
+The subjects arrived in a vehicle bearing registration plate GA03CA2346. During physical surveillance, Amit Deshmukh was seen making repeated encrypted calls using mobile terminal 8800000002 and dispatching instructions to 7700000003.
+
+KEY ACTIVITY LOG:
+1. At approximately 05:00, Amit Deshmukh handed over a sealed briefcase suspected of containing ₹ 250,000 INR to Vikram Malhotra.
+2. Intelligence indicates funds originated from Coastal Freight & Smuggling Cell as part of a structured settlement.
+3. Vikram Malhotra subsequently departed toward Lonavala Hill Farmhouse Bunker in Lonavala.
+4. Intercepted chatter mentions follow-up rendezvous at Lonavala Hill Farmhouse Bunker to coordinate logistics for Coastal Freight & Smuggling Cell.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Amit Deshmukh, Vikram Malhotra, Suresh Singhania
+- CONTACT NUMBERS: 8800000002, 7700000003
+- VEHICLES IDENTIFIED: GA03CA2346
+- LOCATIONS MENTIONED: Calangute Beach Hideout Villa, Lonavala Hill Farmhouse Bunker
+- ORGANIZATIONS: Coastal Freight & Smuggling Cell
+- ESTIMATED VALUE: ₹ 250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Northside Logistics Syndicate and Northside Logistics Syndicate. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

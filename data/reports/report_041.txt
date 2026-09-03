@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-041
+DATE & TIME: 06-May-2025 18:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 2
+LOCATION OF OPERATION: Hitec City Cyber Towers Base, Hyderabad
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Hitec City Cyber Towers Base observed Mahesh Bhide (alias 'None') meeting with Lalit Chawla and an unidentified associate identified as Rahul Verma.
+The subjects arrived in a vehicle bearing registration plate TS06FA2865. During physical surveillance, Mahesh Bhide was seen making repeated encrypted calls using mobile terminal 9100000060 and dispatching instructions to 9900000061.
+
+KEY ACTIVITY LOG:
+1. At approximately 18:00, Mahesh Bhide handed over a sealed briefcase suspected of containing ₹ 950,000 INR to Lalit Chawla.
+2. Intelligence indicates funds originated from Apex Global Financial Ring as part of a structured settlement.
+3. Lalit Chawla subsequently departed toward Secunderabad Railway Freight Yard in Hyderabad.
+4. Intercepted chatter mentions follow-up rendezvous at Secunderabad Railway Freight Yard to coordinate logistics for Apex Global Financial Ring.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Mahesh Bhide, Lalit Chawla, Rahul Verma
+- CONTACT NUMBERS: 9100000060, 9900000061
+- VEHICLES IDENTIFIED: TS06FA2865
+- LOCATIONS MENTIONED: Hitec City Cyber Towers Base, Secunderabad Railway Freight Yard
+- ORGANIZATIONS: Apex Global Financial Ring
+- ESTIMATED VALUE: ₹ 950,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

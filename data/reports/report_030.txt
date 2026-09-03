@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-030
+DATE & TIME: 02-Apr-2025 05:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Panvel Expressway Toll Plaza, Panvel
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Panvel Expressway Toll Plaza observed Naresh Deshmukh (alias 'None') meeting with Vinod Shinde and an unidentified associate identified as Giridhar Bansal.
+The subjects arrived in a vehicle bearing registration plate GA33GB7536. During physical surveillance, Naresh Deshmukh was seen making repeated encrypted calls using mobile terminal 7700000027 and dispatching instructions to 8700000028.
+
+KEY ACTIVITY LOG:
+1. At approximately 05:00, Naresh Deshmukh handed over a sealed briefcase suspected of containing ₹ 1,250,000 INR to Vinod Shinde.
+2. Intelligence indicates funds originated from Bayview Luxury Casino Club as part of a structured settlement.
+3. Vinod Shinde subsequently departed toward Nashik Sinner Industrial Park in Nashik.
+4. Intercepted chatter mentions follow-up rendezvous at Nashik Sinner Industrial Park to coordinate logistics for Bayview Luxury Casino Club.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Naresh Deshmukh, Vinod Shinde, Giridhar Bansal
+- CONTACT NUMBERS: 7700000027, 8700000028
+- VEHICLES IDENTIFIED: GA33GB7536
+- LOCATIONS MENTIONED: Panvel Expressway Toll Plaza, Nashik Sinner Industrial Park
+- ORGANIZATIONS: Bayview Luxury Casino Club
+- ESTIMATED VALUE: ₹ 1,250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

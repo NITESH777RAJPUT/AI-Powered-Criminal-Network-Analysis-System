@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-046
+DATE & TIME: 21-May-2025 07:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 2
+LOCATION OF OPERATION: Pune Hinjewadi Phase 3 Hub, Pune
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Pune Hinjewadi Phase 3 Hub observed Javeed D'Souza (alias 'Silent') meeting with Sneha Chauhan and an unidentified associate identified as Chitra Dhillon.
+The subjects arrived in a vehicle bearing registration plate DL02BA2173. During physical surveillance, Javeed D'Souza was seen making repeated encrypted calls using mobile terminal 8800000002 and dispatching instructions to 8800000002.
+
+KEY ACTIVITY LOG:
+1. At approximately 07:00, Javeed D'Souza handed over a sealed briefcase suspected of containing ₹ 1,250,000 INR to Sneha Chauhan.
+2. Intelligence indicates funds originated from Bayview Luxury Casino Club as part of a structured settlement.
+3. Sneha Chauhan subsequently departed toward Mumbai Dharavi Leather Lane in Mumbai.
+4. Intercepted chatter mentions follow-up rendezvous at Mumbai Dharavi Leather Lane to coordinate logistics for Bayview Luxury Casino Club.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Javeed D'Souza, Sneha Chauhan, Chitra Dhillon
+- CONTACT NUMBERS: 8800000002, 8800000002
+- VEHICLES IDENTIFIED: DL02BA2173
+- LOCATIONS MENTIONED: Pune Hinjewadi Phase 3 Hub, Mumbai Dharavi Leather Lane
+- ORGANIZATIONS: Bayview Luxury Casino Club
+- ESTIMATED VALUE: ₹ 1,250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Northside Logistics Syndicate. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

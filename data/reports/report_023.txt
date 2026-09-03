@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-023
+DATE & TIME: 13-Mar-2025 03:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Kandla Port Tank Farm 2, Kutch
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Kandla Port Tank Farm 2 observed Manish Tiwari (alias 'None') meeting with Gaurav Rao and an unidentified associate identified as Vijay Mukherjee.
+The subjects arrived in a vehicle bearing registration plate DL12LA3903. During physical surveillance, Manish Tiwari was seen making repeated encrypted calls using mobile terminal 9800000006 and dispatching instructions to 7000000007.
+
+KEY ACTIVITY LOG:
+1. At approximately 03:00, Manish Tiwari handed over a sealed briefcase suspected of containing ₹ 4,800,000 INR to Gaurav Rao.
+2. Intelligence indicates funds originated from National Cyber FinTech Ltd as part of a structured settlement.
+3. Gaurav Rao subsequently departed toward Hitec City Cyber Towers Base in Hyderabad.
+4. Intercepted chatter mentions follow-up rendezvous at Hitec City Cyber Towers Base to coordinate logistics for National Cyber FinTech Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Manish Tiwari, Gaurav Rao, Vijay Mukherjee
+- CONTACT NUMBERS: 9800000006, 7000000007
+- VEHICLES IDENTIFIED: DL12LA3903
+- LOCATIONS MENTIONED: Kandla Port Tank Farm 2, Hitec City Cyber Towers Base
+- ORGANIZATIONS: National Cyber FinTech Ltd
+- ESTIMATED VALUE: ₹ 4,800,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Northside Logistics Syndicate and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

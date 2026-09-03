@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-054
+DATE & TIME: 13-Jun-2025 01:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 5
+LOCATION OF OPERATION: Bandra Kurla Financial Tower, Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Bandra Kurla Financial Tower observed Dinesh Pandey (alias 'Razor') meeting with Hemant Sodhi and an unidentified associate identified as Ravi Banerjee.
+The subjects arrived in a vehicle bearing registration plate UP05NB8747. During physical surveillance, Dinesh Pandey was seen making repeated encrypted calls using mobile terminal 7700000039 and dispatching instructions to 8700000040.
+
+KEY ACTIVITY LOG:
+1. At approximately 01:00, Dinesh Pandey handed over a sealed briefcase suspected of containing ₹ 250,000 INR to Hemant Sodhi.
+2. Intelligence indicates funds originated from Bayview Luxury Casino Club as part of a structured settlement.
+3. Hemant Sodhi subsequently departed toward Mormugao Port Cargo Gate 4 in Goa.
+4. Intercepted chatter mentions follow-up rendezvous at Mormugao Port Cargo Gate 4 to coordinate logistics for Bayview Luxury Casino Club.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Dinesh Pandey, Hemant Sodhi, Ravi Banerjee
+- CONTACT NUMBERS: 7700000039, 8700000040
+- VEHICLES IDENTIFIED: UP05NB8747
+- LOCATIONS MENTIONED: Bandra Kurla Financial Tower, Mormugao Port Cargo Gate 4
+- ORGANIZATIONS: Bayview Luxury Casino Club
+- ESTIMATED VALUE: ₹ 250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Independent Syndicate Operative and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

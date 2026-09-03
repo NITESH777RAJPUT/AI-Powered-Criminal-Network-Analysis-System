@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-013
+DATE & TIME: 09-Feb-2025 22:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Nashik Sinner Industrial Park, Nashik
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Nashik Sinner Industrial Park observed Ravi Banerjee (alias 'Cougar') meeting with Brijesh Deshmukh and an unidentified associate identified as Jitendra Shinde.
+The subjects arrived in a vehicle bearing registration plate DL07PB9093. During physical surveillance, Ravi Banerjee was seen making repeated encrypted calls using mobile terminal 9100000041 and dispatching instructions to 8800000042.
+
+KEY ACTIVITY LOG:
+1. At approximately 22:00, Ravi Banerjee handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Brijesh Deshmukh.
+2. Intelligence indicates funds originated from Metro Transit & Warehousing as part of a structured settlement.
+3. Brijesh Deshmukh subsequently departed toward Kolhapur Shiroli MIDC Depot in Kolhapur.
+4. Intercepted chatter mentions follow-up rendezvous at Kolhapur Shiroli MIDC Depot to coordinate logistics for Metro Transit & Warehousing.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Ravi Banerjee, Brijesh Deshmukh, Jitendra Shinde
+- CONTACT NUMBERS: 9100000041, 8800000042
+- VEHICLES IDENTIFIED: DL07PB9093
+- LOCATIONS MENTIONED: Nashik Sinner Industrial Park, Kolhapur Shiroli MIDC Depot
+- ORGANIZATIONS: Metro Transit & Warehousing
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Northside Logistics Syndicate and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-001
+DATE & TIME: 05-Jan-2025 03:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 2
+LOCATION OF OPERATION: Andheri MIDC Industrial Warehouse, Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Andheri MIDC Industrial Warehouse observed Suresh Singhania (alias 'Banker') meeting with Pooja Mehta and an unidentified associate identified as Rohan Kapoor.
+The subjects arrived in a vehicle bearing registration plate GJ05EA2692. During physical surveillance, Suresh Singhania was seen making repeated encrypted calls using mobile terminal 8800000004 and dispatching instructions to 8800000005.
+
+KEY ACTIVITY LOG:
+1. At approximately 03:00, Suresh Singhania handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Pooja Mehta.
+2. Intelligence indicates funds originated from Apex Global Financial Ring as part of a structured settlement.
+3. Pooja Mehta subsequently departed toward Bandra Kurla Financial Tower in Mumbai.
+4. Intercepted chatter mentions follow-up rendezvous at Bandra Kurla Financial Tower to coordinate logistics for Apex Global Financial Ring.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Suresh Singhania, Pooja Mehta, Rohan Kapoor
+- CONTACT NUMBERS: 8800000004, 8800000005
+- VEHICLES IDENTIFIED: GJ05EA2692
+- LOCATIONS MENTIONED: Andheri MIDC Industrial Warehouse, Bandra Kurla Financial Tower
+- ORGANIZATIONS: Apex Global Financial Ring
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Apex Global Financial Ring and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

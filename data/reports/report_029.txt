@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-029
+DATE & TIME: 29-Mar-2025 22:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 5
+LOCATION OF OPERATION: Mumbai Dharavi Leather Lane, Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Mumbai Dharavi Leather Lane observed Vikas Pandey (alias 'None') meeting with Ashok Sodhi and an unidentified associate identified as Praveen Banerjee.
+The subjects arrived in a vehicle bearing registration plate UP30DB7017. During physical surveillance, Vikas Pandey was seen making repeated encrypted calls using mobile terminal 9100000024 and dispatching instructions to 9700000025.
+
+KEY ACTIVITY LOG:
+1. At approximately 22:00, Vikas Pandey handed over a sealed briefcase suspected of containing ₹ 950,000 INR to Ashok Sodhi.
+2. Intelligence indicates funds originated from Metro Transit & Warehousing as part of a structured settlement.
+3. Ashok Sodhi subsequently departed toward Thane Ghodbunder Road Warehouse in Thane.
+4. Intercepted chatter mentions follow-up rendezvous at Thane Ghodbunder Road Warehouse to coordinate logistics for Metro Transit & Warehousing.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Vikas Pandey, Ashok Sodhi, Praveen Banerjee
+- CONTACT NUMBERS: 9100000024, 9700000025
+- VEHICLES IDENTIFIED: UP30DB7017
+- LOCATIONS MENTIONED: Mumbai Dharavi Leather Lane, Thane Ghodbunder Road Warehouse
+- ORGANIZATIONS: Metro Transit & Warehousing
+- ESTIMATED VALUE: ₹ 950,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

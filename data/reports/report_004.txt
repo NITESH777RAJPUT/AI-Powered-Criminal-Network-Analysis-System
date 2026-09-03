@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-004
+DATE & TIME: 14-Jan-2025 20:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 5
+LOCATION OF OPERATION: Koramangala Tech Park Gate 2, Bangalore
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Koramangala Tech Park Gate 2 observed Chandan Dutta (alias 'Fox') meeting with Javeed D'Souza and an unidentified associate identified as Sneha Chauhan.
+The subjects arrived in a vehicle bearing registration plate GJ15OA4422. During physical surveillance, Chandan Dutta was seen making repeated encrypted calls using mobile terminal 9700000001 and dispatching instructions to 8800000002.
+
+KEY ACTIVITY LOG:
+1. At approximately 20:00, Chandan Dutta handed over a sealed briefcase suspected of containing ₹ 250,000 INR to Javeed D'Souza.
+2. Intelligence indicates funds originated from Falcon Security Solutions as part of a structured settlement.
+3. Javeed D'Souza subsequently departed toward Electronic City Phase 1 Safehouse in Bangalore.
+4. Intercepted chatter mentions follow-up rendezvous at Electronic City Phase 1 Safehouse to coordinate logistics for Falcon Security Solutions.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Chandan Dutta, Javeed D'Souza, Sneha Chauhan
+- CONTACT NUMBERS: 9700000001, 8800000002
+- VEHICLES IDENTIFIED: GJ15OA4422
+- LOCATIONS MENTIONED: Koramangala Tech Park Gate 2, Electronic City Phase 1 Safehouse
+- ORGANIZATIONS: Falcon Security Solutions
+- ESTIMATED VALUE: ₹ 250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Independent Syndicate Operative and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

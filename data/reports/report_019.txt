@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-019
+DATE & TIME: 28-Feb-2025 20:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 5
+LOCATION OF OPERATION: Bandra Kurla Financial Tower, Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Bandra Kurla Financial Tower observed Abhishek Shetty (alias 'Phantom') meeting with Irfan Sen and an unidentified associate identified as Rupesh Kulkarni.
+The subjects arrived in a vehicle bearing registration plate UP25HC3207. During physical surveillance, Abhishek Shetty was seen making repeated encrypted calls using mobile terminal 9900000059 and dispatching instructions to 9100000060.
+
+KEY ACTIVITY LOG:
+1. At approximately 20:00, Abhishek Shetty handed over a sealed briefcase suspected of containing ₹ 4,800,000 INR to Irfan Sen.
+2. Intelligence indicates funds originated from Silverline Import Export Pvt Ltd as part of a structured settlement.
+3. Irfan Sen subsequently departed toward Mormugao Port Cargo Gate 4 in Goa.
+4. Intercepted chatter mentions follow-up rendezvous at Mormugao Port Cargo Gate 4 to coordinate logistics for Silverline Import Export Pvt Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Abhishek Shetty, Irfan Sen, Rupesh Kulkarni
+- CONTACT NUMBERS: 9900000059, 9100000060
+- VEHICLES IDENTIFIED: UP25HC3207
+- LOCATIONS MENTIONED: Bandra Kurla Financial Tower, Mormugao Port Cargo Gate 4
+- ORGANIZATIONS: Silverline Import Export Pvt Ltd
+- ESTIMATED VALUE: ₹ 4,800,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Independent Syndicate Operative and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-048
+DATE & TIME: 26-May-2025 23:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Nashik Sinner Industrial Park, Nashik
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Nashik Sinner Industrial Park observed Tarun Tiwari (alias 'Eagle') meeting with Kailash Rao and an unidentified associate identified as Jagdish Mukherjee.
+The subjects arrived in a vehicle bearing registration plate DL22VA5633. During physical surveillance, Tarun Tiwari was seen making repeated encrypted calls using mobile terminal 8800000021 and dispatching instructions to 8700000022.
+
+KEY ACTIVITY LOG:
+1. At approximately 23:00, Tarun Tiwari handed over a sealed briefcase suspected of containing ₹ 4,800,000 INR to Kailash Rao.
+2. Intelligence indicates funds originated from Northside Logistics Syndicate as part of a structured settlement.
+3. Kailash Rao subsequently departed toward Kolhapur Shiroli MIDC Depot in Kolhapur.
+4. Intercepted chatter mentions follow-up rendezvous at Kolhapur Shiroli MIDC Depot to coordinate logistics for Northside Logistics Syndicate.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Tarun Tiwari, Kailash Rao, Jagdish Mukherjee
+- CONTACT NUMBERS: 8800000021, 8700000022
+- VEHICLES IDENTIFIED: DL22VA5633
+- LOCATIONS MENTIONED: Nashik Sinner Industrial Park, Kolhapur Shiroli MIDC Depot
+- ORGANIZATIONS: Northside Logistics Syndicate
+- ESTIMATED VALUE: ₹ 4,800,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Northside Logistics Syndicate and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

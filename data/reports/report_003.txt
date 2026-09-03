@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-003
+DATE & TIME: 11-Jan-2025 21:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Connaught Place Regal Plaza, Delhi
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Connaught Place Regal Plaza observed Manish Pawar (alias 'Viper') meeting with Kunal Gupta and an unidentified associate identified as Tejas Nair.
+The subjects arrived in a vehicle bearing registration plate MH11KA3730. During physical surveillance, Manish Pawar was seen making repeated encrypted calls using mobile terminal 8700000010 and dispatching instructions to 9700000001.
+
+KEY ACTIVITY LOG:
+1. At approximately 21:00, Manish Pawar handed over a sealed briefcase suspected of containing ₹ 4,800,000 INR to Kunal Gupta.
+2. Intelligence indicates funds originated from Silverline Import Export Pvt Ltd as part of a structured settlement.
+3. Kunal Gupta subsequently departed toward Indira Gandhi Cargo Terminal T3 in Delhi.
+4. Intercepted chatter mentions follow-up rendezvous at Indira Gandhi Cargo Terminal T3 to coordinate logistics for Silverline Import Export Pvt Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Manish Pawar, Kunal Gupta, Tejas Nair
+- CONTACT NUMBERS: 8700000010, 9700000001
+- VEHICLES IDENTIFIED: MH11KA3730
+- LOCATIONS MENTIONED: Connaught Place Regal Plaza, Indira Gandhi Cargo Terminal T3
+- ORGANIZATIONS: Silverline Import Export Pvt Ltd
+- ESTIMATED VALUE: ₹ 4,800,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Coastal Freight & Smuggling Cell and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

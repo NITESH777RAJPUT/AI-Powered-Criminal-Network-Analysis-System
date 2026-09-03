@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-025
+DATE & TIME: 18-Mar-2025 22:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Lonavala Hill Farmhouse Bunker, Lonavala
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Lonavala Hill Farmhouse Bunker observed Himanshu Iyengar (alias 'None') meeting with Parag Das and an unidentified associate identified as Zameer Sharma.
+The subjects arrived in a vehicle bearing registration plate WB18RA4941. During physical surveillance, Himanshu Iyengar was seen making repeated encrypted calls using mobile terminal 8800000012 and dispatching instructions to 8800000013.
+
+KEY ACTIVITY LOG:
+1. At approximately 22:00, Himanshu Iyengar handed over a sealed briefcase suspected of containing ₹ 4,800,000 INR to Parag Das.
+2. Intelligence indicates funds originated from Apex Global Financial Ring as part of a structured settlement.
+3. Parag Das subsequently departed toward Navi Mumbai Vashi APMC Market in Navi Mumbai.
+4. Intercepted chatter mentions follow-up rendezvous at Navi Mumbai Vashi APMC Market to coordinate logistics for Apex Global Financial Ring.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Himanshu Iyengar, Parag Das, Zameer Sharma
+- CONTACT NUMBERS: 8800000012, 8800000013
+- VEHICLES IDENTIFIED: WB18RA4941
+- LOCATIONS MENTIONED: Lonavala Hill Farmhouse Bunker, Navi Mumbai Vashi APMC Market
+- ORGANIZATIONS: Apex Global Financial Ring
+- ESTIMATED VALUE: ₹ 4,800,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Apex Global Financial Ring and Coastal Freight & Smuggling Cell. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

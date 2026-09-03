@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-028
+DATE & TIME: 27-Mar-2025 06:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Chennai Harbor Gate 2A, Chennai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Chennai Harbor Gate 2A observed Heena Iyer (alias 'None') meeting with Vikram Bose and an unidentified associate identified as Deepak Kapoor.
+The subjects arrived in a vehicle bearing registration plate TN27AB6498. During physical surveillance, Heena Iyer was seen making repeated encrypted calls using mobile terminal 8800000021 and dispatching instructions to 8700000022.
+
+KEY ACTIVITY LOG:
+1. At approximately 06:00, Heena Iyer handed over a sealed briefcase suspected of containing ₹ 250,000 INR to Vikram Bose.
+2. Intelligence indicates funds originated from Falcon Security Solutions as part of a structured settlement.
+3. Vikram Bose subsequently departed toward Pune Hinjewadi Phase 3 Hub in Pune.
+4. Intercepted chatter mentions follow-up rendezvous at Pune Hinjewadi Phase 3 Hub to coordinate logistics for Falcon Security Solutions.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Heena Iyer, Vikram Bose, Deepak Kapoor
+- CONTACT NUMBERS: 8800000021, 8700000022
+- VEHICLES IDENTIFIED: TN27AB6498
+- LOCATIONS MENTIONED: Chennai Harbor Gate 2A, Pune Hinjewadi Phase 3 Hub
+- ORGANIZATIONS: Falcon Security Solutions
+- ESTIMATED VALUE: ₹ 250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

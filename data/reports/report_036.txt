@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-036
+DATE & TIME: 21-Apr-2025 01:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 2
+LOCATION OF OPERATION: Andheri MIDC Industrial Warehouse, Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Andheri MIDC Industrial Warehouse observed Umesh Sen (alias 'None') meeting with Farhan Kulkarni and an unidentified associate identified as Mayur Gupta.
+The subjects arrived in a vehicle bearing registration plate MH16YB1650. During physical surveillance, Umesh Sen was seen making repeated encrypted calls using mobile terminal 8800000045 and dispatching instructions to 7000000046.
+
+KEY ACTIVITY LOG:
+1. At approximately 01:00, Umesh Sen handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Farhan Kulkarni.
+2. Intelligence indicates funds originated from Falcon Security Solutions as part of a structured settlement.
+3. Farhan Kulkarni subsequently departed toward Bandra Kurla Financial Tower in Mumbai.
+4. Intercepted chatter mentions follow-up rendezvous at Bandra Kurla Financial Tower to coordinate logistics for Falcon Security Solutions.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Umesh Sen, Farhan Kulkarni, Mayur Gupta
+- CONTACT NUMBERS: 8800000045, 7000000046
+- VEHICLES IDENTIFIED: MH16YB1650
+- LOCATIONS MENTIONED: Andheri MIDC Industrial Warehouse, Bandra Kurla Financial Tower
+- ORGANIZATIONS: Falcon Security Solutions
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

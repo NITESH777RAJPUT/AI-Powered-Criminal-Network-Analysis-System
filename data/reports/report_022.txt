@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-022
+DATE & TIME: 10-Mar-2025 23:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 3
+LOCATION OF OPERATION: Electronic City Phase 1 Safehouse, Bangalore
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Electronic City Phase 1 Safehouse observed Kavita Hegde (alias 'None') meeting with Ishita Roy and an unidentified associate identified as Suresh Joshi.
+The subjects arrived in a vehicle bearing registration plate RJ09IA3384. During physical surveillance, Kavita Hegde was seen making repeated encrypted calls using mobile terminal 7700000003 and dispatching instructions to 8800000004.
+
+KEY ACTIVITY LOG:
+1. At approximately 23:00, Kavita Hegde handed over a sealed briefcase suspected of containing ₹ 4,800,000 INR to Ishita Roy.
+2. Intelligence indicates funds originated from Bayview Luxury Casino Club as part of a structured settlement.
+3. Ishita Roy subsequently departed toward Sardar Vallabhbhai Transit Depot in Ahmedabad.
+4. Intercepted chatter mentions follow-up rendezvous at Sardar Vallabhbhai Transit Depot to coordinate logistics for Bayview Luxury Casino Club.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Kavita Hegde, Ishita Roy, Suresh Joshi
+- CONTACT NUMBERS: 7700000003, 8800000004
+- VEHICLES IDENTIFIED: RJ09IA3384
+- LOCATIONS MENTIONED: Electronic City Phase 1 Safehouse, Sardar Vallabhbhai Transit Depot
+- ORGANIZATIONS: Bayview Luxury Casino Club
+- ESTIMATED VALUE: ₹ 4,800,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Coastal Freight & Smuggling Cell and Independent Syndicate Operative. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

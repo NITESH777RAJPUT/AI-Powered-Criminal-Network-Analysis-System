@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-053
+DATE & TIME: 10-Jun-2025 18:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Nhava Sheva Container Terminal, Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Nhava Sheva Container Terminal observed Devendra Iyer (alias 'Fixer') meeting with Pankaj Bose and an unidentified associate identified as Sachin Kapoor.
+The subjects arrived in a vehicle bearing registration plate TN02KB8228. During physical surveillance, Devendra Iyer was seen making repeated encrypted calls using mobile terminal 9700000036 and dispatching instructions to 9700000037.
+
+KEY ACTIVITY LOG:
+1. At approximately 18:00, Devendra Iyer handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Pankaj Bose.
+2. Intelligence indicates funds originated from Metro Transit & Warehousing as part of a structured settlement.
+3. Pankaj Bose subsequently departed toward Andheri MIDC Industrial Warehouse in Mumbai.
+4. Intercepted chatter mentions follow-up rendezvous at Andheri MIDC Industrial Warehouse to coordinate logistics for Metro Transit & Warehousing.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Devendra Iyer, Pankaj Bose, Sachin Kapoor
+- CONTACT NUMBERS: 9700000036, 9700000037
+- VEHICLES IDENTIFIED: TN02KB8228
+- LOCATIONS MENTIONED: Nhava Sheva Container Terminal, Andheri MIDC Industrial Warehouse
+- ORGANIZATIONS: Metro Transit & Warehousing
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Northside Logistics Syndicate and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

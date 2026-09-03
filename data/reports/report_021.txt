@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-021
+DATE & TIME: 06-Mar-2025 06:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 2
+LOCATION OF OPERATION: Indira Gandhi Cargo Terminal T3, Delhi
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Indira Gandhi Cargo Terminal T3 observed Zubair D'Souza (alias 'None') meeting with Gautam Chauhan and an unidentified associate identified as Neha Dhillon.
+The subjects arrived in a vehicle bearing registration plate TS06FA2865. During physical surveillance, Zubair D'Souza was seen making repeated encrypted calls using mobile terminal 9700000065 and dispatching instructions to 9700000001.
+
+KEY ACTIVITY LOG:
+1. At approximately 06:00, Zubair D'Souza handed over a sealed briefcase suspected of containing ₹ 500,000 INR to Gautam Chauhan.
+2. Intelligence indicates funds originated from Metro Transit & Warehousing as part of a structured settlement.
+3. Gautam Chauhan subsequently departed toward Koramangala Tech Park Gate 2 in Bangalore.
+4. Intercepted chatter mentions follow-up rendezvous at Koramangala Tech Park Gate 2 to coordinate logistics for Metro Transit & Warehousing.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Zubair D'Souza, Gautam Chauhan, Neha Dhillon
+- CONTACT NUMBERS: 9700000065, 9700000001
+- VEHICLES IDENTIFIED: TS06FA2865
+- LOCATIONS MENTIONED: Indira Gandhi Cargo Terminal T3, Koramangala Tech Park Gate 2
+- ORGANIZATIONS: Metro Transit & Warehousing
+- ESTIMATED VALUE: ₹ 500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Northside Logistics Syndicate. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

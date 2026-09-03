@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-035
+DATE & TIME: 18-Apr-2025 04:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 1
+LOCATION OF OPERATION: Pune Railway Station Cargo Hub, Pune
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Pune Railway Station Cargo Hub observed Mohit Rathore (alias 'None') meeting with Ramesh Gill and an unidentified associate identified as Manoj Shetty.
+The subjects arrived in a vehicle bearing registration plate WB13VB1131. During physical surveillance, Mohit Rathore was seen making repeated encrypted calls using mobile terminal 8800000042 and dispatching instructions to 9800000043.
+
+KEY ACTIVITY LOG:
+1. At approximately 04:00, Mohit Rathore handed over a sealed briefcase suspected of containing ₹ 250,000 INR to Ramesh Gill.
+2. Intelligence indicates funds originated from Silverline Import Export Pvt Ltd as part of a structured settlement.
+3. Ramesh Gill subsequently departed toward Nhava Sheva Container Terminal in Mumbai.
+4. Intercepted chatter mentions follow-up rendezvous at Nhava Sheva Container Terminal to coordinate logistics for Silverline Import Export Pvt Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Mohit Rathore, Ramesh Gill, Manoj Shetty
+- CONTACT NUMBERS: 8800000042, 9800000043
+- VEHICLES IDENTIFIED: WB13VB1131
+- LOCATIONS MENTIONED: Pune Railway Station Cargo Hub, Nhava Sheva Container Terminal
+- ORGANIZATIONS: Silverline Import Export Pvt Ltd
+- ESTIMATED VALUE: ₹ 250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

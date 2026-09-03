@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-018
+DATE & TIME: 27-Feb-2025 03:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Nhava Sheva Container Terminal, Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Nhava Sheva Container Terminal observed Mukesh Patel (alias 'Chief') meeting with Harish Rathore and an unidentified associate identified as Pradeep Gill.
+The subjects arrived in a vehicle bearing registration plate TN22EC2688. During physical surveillance, Mukesh Patel was seen making repeated encrypted calls using mobile terminal 9800000056 and dispatching instructions to 9900000057.
+
+KEY ACTIVITY LOG:
+1. At approximately 03:00, Mukesh Patel handed over a sealed briefcase suspected of containing ₹ 950,000 INR to Harish Rathore.
+2. Intelligence indicates funds originated from Coastal Freight & Smuggling Cell as part of a structured settlement.
+3. Harish Rathore subsequently departed toward Andheri MIDC Industrial Warehouse in Mumbai.
+4. Intercepted chatter mentions follow-up rendezvous at Andheri MIDC Industrial Warehouse to coordinate logistics for Coastal Freight & Smuggling Cell.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Mukesh Patel, Harish Rathore, Pradeep Gill
+- CONTACT NUMBERS: 9800000056, 9900000057
+- VEHICLES IDENTIFIED: TN22EC2688
+- LOCATIONS MENTIONED: Nhava Sheva Container Terminal, Andheri MIDC Industrial Warehouse
+- ORGANIZATIONS: Coastal Freight & Smuggling Cell
+- ESTIMATED VALUE: ₹ 950,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Northside Logistics Syndicate and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

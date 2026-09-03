@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-032
+DATE & TIME: 09-Apr-2025 07:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 3
+LOCATION OF OPERATION: Solapur Textile Market Gate 1, Solapur
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Solapur Textile Market Gate 1 observed Mandar Yadav (alias 'None') meeting with Vishal Khurana and an unidentified associate identified as Ekansh Pai.
+The subjects arrived in a vehicle bearing registration plate RJ04MB8574. During physical surveillance, Mandar Yadav was seen making repeated encrypted calls using mobile terminal 7000000033 and dispatching instructions to 9800000034.
+
+KEY ACTIVITY LOG:
+1. At approximately 07:00, Mandar Yadav handed over a sealed briefcase suspected of containing ₹ 1,250,000 INR to Vishal Khurana.
+2. Intelligence indicates funds originated from Northside Logistics Syndicate as part of a structured settlement.
+3. Vishal Khurana subsequently departed toward Chandigarh Sector 17 Plaza in Chandigarh.
+4. Intercepted chatter mentions follow-up rendezvous at Chandigarh Sector 17 Plaza to coordinate logistics for Northside Logistics Syndicate.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Mandar Yadav, Vishal Khurana, Ekansh Pai
+- CONTACT NUMBERS: 7000000033, 9800000034
+- VEHICLES IDENTIFIED: RJ04MB8574
+- LOCATIONS MENTIONED: Solapur Textile Market Gate 1, Chandigarh Sector 17 Plaza
+- ORGANIZATIONS: Northside Logistics Syndicate
+- ESTIMATED VALUE: ₹ 1,250,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

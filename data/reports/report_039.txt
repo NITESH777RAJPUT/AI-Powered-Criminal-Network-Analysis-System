@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-039
+DATE & TIME: 30-Apr-2025 05:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 5
+LOCATION OF OPERATION: Koramangala Tech Park Gate 2, Bangalore
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Koramangala Tech Park Gate 2 observed Tanuja Roy (alias 'None') meeting with Divya Joshi and an unidentified associate identified as Rahul Tiwari.
+The subjects arrived in a vehicle bearing registration plate UP25HC3207. During physical surveillance, Tanuja Roy was seen making repeated encrypted calls using mobile terminal 8700000054 and dispatching instructions to 9100000055.
+
+KEY ACTIVITY LOG:
+1. At approximately 05:00, Tanuja Roy handed over a sealed briefcase suspected of containing ₹ 7,500,000 INR to Divya Joshi.
+2. Intelligence indicates funds originated from National Cyber FinTech Ltd as part of a structured settlement.
+3. Divya Joshi subsequently departed toward Electronic City Phase 1 Safehouse in Bangalore.
+4. Intercepted chatter mentions follow-up rendezvous at Electronic City Phase 1 Safehouse to coordinate logistics for National Cyber FinTech Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Tanuja Roy, Divya Joshi, Rahul Tiwari
+- CONTACT NUMBERS: 8700000054, 9100000055
+- VEHICLES IDENTIFIED: UP25HC3207
+- LOCATIONS MENTIONED: Koramangala Tech Park Gate 2, Electronic City Phase 1 Safehouse
+- ORGANIZATIONS: National Cyber FinTech Ltd
+- ESTIMATED VALUE: ₹ 7,500,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Civilian / Unaffiliated and Civilian / Unaffiliated. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.

@@ -1,0 +1,27 @@
+INTELLIGENCE SURVEILLANCE & INTERCEPT BULLETIN
+DOCUMENT CLASSIFICATION: CONFIDENTIAL // LAW ENFORCEMENT DEMO ONLY
+REPORT ID: REP-043
+DATE & TIME: 13-May-2025 04:00 hrs
+FIELD UNIT: Special Intelligence Detachment - Division 4
+LOCATION OF OPERATION: Navi Mumbai Vashi APMC Market, Navi Mumbai
+
+EXECUTIVE SUMMARY:
+Field operatives stationed at Navi Mumbai Vashi APMC Market observed Pooja Mehta (alias 'Accountant') meeting with Rohan Kapoor and an unidentified associate identified as Karan D'Souza.
+The subjects arrived in a vehicle bearing registration plate TS06FA2865. During physical surveillance, Pooja Mehta was seen making repeated encrypted calls using mobile terminal 8800000005 and dispatching instructions to 9800000006.
+
+KEY ACTIVITY LOG:
+1. At approximately 04:00, Pooja Mehta handed over a sealed briefcase suspected of containing ₹ 950,000 INR to Rohan Kapoor.
+2. Intelligence indicates funds originated from Silverline Import Export Pvt Ltd as part of a structured settlement.
+3. Rohan Kapoor subsequently departed toward Surat Diamond Bourse Vault 3 in Surat.
+4. Intercepted chatter mentions follow-up rendezvous at Surat Diamond Bourse Vault 3 to coordinate logistics for Silverline Import Export Pvt Ltd.
+
+ENTITIES FLAGGED IN INTERCEPT:
+- PERSONS: Pooja Mehta, Rohan Kapoor, Karan D'Souza
+- CONTACT NUMBERS: 8800000005, 9800000006
+- VEHICLES IDENTIFIED: TS06FA2865
+- LOCATIONS MENTIONED: Navi Mumbai Vashi APMC Market, Surat Diamond Bourse Vault 3
+- ORGANIZATIONS: Silverline Import Export Pvt Ltd
+- ESTIMATED VALUE: ₹ 950,000
+
+ANALYST ASSESSMENT:
+High confidence of illicit coordination between members of Apex Global Financial Ring and Apex Global Financial Ring. Recommend immediate cross-referencing with CDR logs and financial transaction ledgers.
